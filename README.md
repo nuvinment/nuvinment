@@ -18,3 +18,8 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,flutter,dart,laravel,php,postgres,flask,django,git,github" />
 </p>
+
+## Top languages
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvinment&layout=compact&theme=tokyonight" />
+</p>
