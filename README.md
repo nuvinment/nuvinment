@@ -18,13 +18,3 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,c,flutter,dart,laravel,php,postgres,flask,django,git,github" />
 </p>
-
-## GitHub stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nuvinment&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuvinment&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nuvinment&theme=tokyo-night" />
-</p>
